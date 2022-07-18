@@ -1,0 +1,16 @@
+F:\Szkolne pierdoły\siszarp\zgadula\bin\Debug\net5.0\zgadula.exe
+F:\Szkolne pierdoły\siszarp\zgadula\bin\Debug\net5.0\zgadula.deps.json
+F:\Szkolne pierdoły\siszarp\zgadula\bin\Debug\net5.0\zgadula.runtimeconfig.json
+F:\Szkolne pierdoły\siszarp\zgadula\bin\Debug\net5.0\zgadula.runtimeconfig.dev.json
+F:\Szkolne pierdoły\siszarp\zgadula\bin\Debug\net5.0\zgadula.dll
+F:\Szkolne pierdoły\siszarp\zgadula\bin\Debug\net5.0\zgadula.pdb
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.csproj.AssemblyReference.cache
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.GeneratedMSBuildEditorConfig.editorconfig
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.AssemblyInfoInputs.cache
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.AssemblyInfo.cs
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.csproj.CoreCompileInputs.cache
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.dll
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\ref\zgadula.dll
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.pdb
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\zgadula.genruntimeconfig.cache
+F:\Szkolne pierdoły\siszarp\zgadula\obj\Debug\net5.0\refint\zgadula.dll
